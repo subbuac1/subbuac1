@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @subbuac1
-- 👀 I’m interested in crypto
-- 🌱 I’m currently learning pull requests
-- 💞️ I’m looking to collaborate on shardeum
+- 👋 Hi, I’m Subbu and working as a content lead at Shardeum, an L1 blockchain
+- 👀 I’m interested in decentralization, investment, AI, transhumanism, bio-tech, fabs, robotics, and other frontier technologies
+- 🌱 I have authored plenty of pages on Github, created and merged PRs despite not having technical background
+- 💞️ I’m looking to collaborate with like minded people. For example, someone who prefers texting over talking.
 - 📫 How to reach me email @ subbu.ac1@gmail.com
 
 <!---
